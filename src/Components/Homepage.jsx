@@ -59,7 +59,7 @@ const Homepage = ({ handlePageChange }) => {
                             <p className='mt-2 text-[16px] text-[#4d4d4d] xl:text-[14px]'>Helping users shop for quality thrift wears from the comfort of their homes.</p>
                         </div>
                         <div className='px-8 py-12 text-left flex'>
-                            <h1 className='text-[16px] font-semibold xl:text-[14px]'>View Case study</h1>
+                            <h1 className='text-[16px] font-semibold xl:text-[14px]'>Coming Soon</h1>
                             <img className='ml-4' src="./chevron.png" alt="button" />
 
                         </div>
@@ -74,7 +74,7 @@ const Homepage = ({ handlePageChange }) => {
                             <p className='mt-2 text-[16px] text-[#4d4d4d] sm:text-[14px]'>Encouraging tourism and enhancing seamless travel booking experience within the country.</p>
                         </div>
                         <div className='px-8 py-12 text-left flex'>
-                            <h1 className='text-[16px] font-semibold xl:text-[14px]'>View Case study</h1>
+                            <h1 className='text-[16px] font-semibold xl:text-[14px]'>Coming Soon</h1>
                             <img className='ml-4' src="./chevron.png" alt="button" />
 
                         </div>
