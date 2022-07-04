@@ -10,7 +10,9 @@ const Contact = () => {
                     football (Manchester United) basically 😁, or buy me peppered turkey, you can shoot 
                     me an email <br />or reach out to me via my social media handles.</p>
                 <div className='flex justify-start items-center sm:flex-col'>
-                    <h1 className='font-semibold'>adepojutimilehin7@gmail.com</h1>
+                <form action="mailto:adepojutimilehin7@gmail.com" method="GET">
+                    <button type="submit" className='font-semibold'>adepojutimilehin7@gmail.com</button>
+                </form>
                     <img src="./mailico.png" alt="icon" className='sm:mt-2 w-[40%]' />
                 </div>
             </div>

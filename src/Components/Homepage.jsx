@@ -9,9 +9,7 @@ const Homepage = ({ handlePageChange }) => {
         </div>
         <h1 className='text-[24px] font-semibold sm:text-[20px]'>Hi there ✌, I'm Timilehin</h1>
         <h1 className='text-[40px] font-bold px-5 leading-tight mb-5 sm:text-[25px] sm:mt-2'>I design digital products with a patented approach to user experience design.</h1>
-        <p className='text-[16px] px-5 text-[#333333] sm:text-[14px]'>I am a digital product designer and I am currently a product design fellow at The Bulb Africa. 
-           I try to connect <br className='sm:hidden'/> the dots between user needs and business goals. It is safe to say that I enjoy
-           crafting awesome digital experiences.</p>
+        <p className='text-[16px] px-5 text-[#333333] sm:text-[14px]'>I am a Digital Product Designer, UX Researcher and a Product Thinker. I enjoy solving complex problem with creative thinking and I try to connect the dots between user needs and business goals. It is safe to say that I enjoy crafting awesome digital experiences.</p>
         <div className='mt-8'>
             <button 
             onClick={() => handlePageChange("contact")}
@@ -21,7 +19,7 @@ const Homepage = ({ handlePageChange }) => {
     <section className='flex flex-col text-center  w-[55%] 2xl:w-[60%] mx-auto lg:w-[80%]' >
         <div>
             <h1 className='text-[24px] font-bold text-left md:text-center'>PROJECTS</h1>
-            <p className='text-left md:text-center text-[14px]'>Here are some of the projects I have worked on and I'm glad to share them with you 😁.</p>
+            <p className='text-left md:text-center text-[16px]'>Here are some of the projects I have worked on and I'm glad to share them with you 😁.</p>
             <div className='mt-10 grid grid-cols-2 gap-8 md:grid-cols-1 place-items-center'>
                 {/* VBANK PROJECT */}
                 <div className='flex flex-col h-[560px] w-[417px] rounded-lg xl:h-[448px] xl:w-[333.6px]'>
@@ -45,7 +43,7 @@ const Homepage = ({ handlePageChange }) => {
                             <h1 className='text-[24px] xl:text-[16px]'><span className='font-semibold'>TBA</span>- Examination Portal</h1>
                             <p className='mt-2 text-[16px] text-[#4d4d4d]  xl:text-[14px]'>Designing an examination portal for recruiting aspiring tech talents across Africa.</p>
                         </div>
-                        <a href='https://medium.com/@adepojutimilehin7/redesigning-the-onboarding-process-and-homepage-of-vbank-mobile-application-a-case-study-c380cd13e0f' className='px-8 py-12 text-left flex'>
+                        <a href='https://medium.com/@adepojutimilehin7/fellowship-at-the-bulb-africa-examination-portal-a-case-study-6462ed68943b' className='px-8 py-12 text-left flex'>
                             <h1 className='text-[16px] font-semibold  xl:text-[14px]'>View Case study</h1>
                             <img className='ml-4' src="./chevron.png" alt="button" />
 
