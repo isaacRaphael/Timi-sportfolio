@@ -52,26 +52,26 @@ const Homepage = ({ handlePageChange }) => {
                 </div>
                 {/* OKRIKA */}
                 <div className='flex flex-col h-[560px] w-[417px] rounded-lg xl:h-[448px] xl:w-[333.6px]'>
+                    <img src="./petme.png" alt="" className='h-1/2 w-full object-center' />
+                    <div className='w-full h-1/2 bg-[#EBF5FF] flex flex-col justify-between py-4'>
+                        <div className='px-8 text-left'>
+                            <h1 className='text-[24px] xl:text-[16px]'><span className='font-semibold'>Pet Me</span>-  An online petshop.</h1>
+                            <p className='mt-2 text-[16px] text-[#4d4d4d] xl:text-[14px]'>A market place where merchants go to list their products or services for sale.</p>
+                        </div>
+                        <a href='https://medium.com/@adepojutimilehin7/fellowship-at-the-bulb-africa-examination-portal-a-case-study-6462ed68943b' className='px-8 py-12 text-left flex'>
+                            <h1 className='text-[16px] font-semibold xl:text-[14px]'>View Case study</h1>
+                            <img className='ml-4' src="./chevron.png" alt="button" />
+
+                        </a>
+                    </div>
+                </div>
+                {/* {KK} */}
+                <div className='flex flex-col h-[560px] w-[417px] rounded-lg xl:h-[448px] xl:w-[333.6px]'>
                     <img src="./okrika.png" alt="" className='h-1/2 w-full object-center' />
                     <div className='w-full h-1/2 bg-[#EBFFFA] flex flex-col justify-between py-4'>
                         <div className='px-8 text-left'>
                             <h1 className='text-[24px] xl:text-[16px]'><span className='font-semibold'>Okirika</span>- Mobile Thrift App.</h1>
                             <p className='mt-2 text-[16px] text-[#4d4d4d] xl:text-[14px]'>Helping users shop for quality thrift wears from the comfort of their homes.</p>
-                        </div>
-                        <div className='px-8 py-12 text-left flex'>
-                            <h1 className='text-[16px] font-semibold xl:text-[14px]'>Coming Soon</h1>
-                            <img className='ml-4' src="./chevron.png" alt="button" />
-
-                        </div>
-                    </div>
-                </div>
-                {/* {KK} */}
-                <div className='flex flex-col h-[560px] w-[417px] rounded-lg xl:h-[448px] xl:w-[333.6px]'>
-                    <img src="./kk.png" alt="" className='h-1/2 w-full object-center' />
-                    <div className='w-full h-1/2 bg-[#EBF5FF] flex flex-col justify-between py-4'>
-                        <div className='px-8 text-left'>
-                            <h1 className='text-[24px] xl:text-[16px]'><span className='font-semibold'>Karinkapo</span>- A Travel App.</h1>
-                            <p className='mt-2 text-[16px] text-[#4d4d4d] sm:text-[14px]'>Encouraging tourism and enhancing seamless travel booking experience within the country.</p>
                         </div>
                         <div className='px-8 py-12 text-left flex'>
                             <h1 className='text-[16px] font-semibold xl:text-[14px]'>Coming Soon</h1>
