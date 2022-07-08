@@ -58,7 +58,7 @@ const Homepage = ({ handlePageChange }) => {
                             <h1 className='text-[24px] xl:text-[16px]'><span className='font-semibold'>Pet Me</span>-  An online petshop.</h1>
                             <p className='mt-2 text-[16px] text-[#4d4d4d] xl:text-[14px]'>A market place that connects pet owners to premium pet products and services.</p>
                         </div>
-                        <a href='https://medium.com/@adepojutimilehin7/fellowship-at-the-bulb-africa-examination-portal-a-case-study-6462ed68943b' className='px-8 py-12 text-left flex'>
+                        <a href='https://medium.com/@adepojutimilehin7/petme-a-market-place-where-merchants-go-to-list-their-product-or-services-for-sale-85afe13a732a' className='px-8 py-12 text-left flex'>
                             <h1 className='text-[16px] font-semibold xl:text-[14px]'>View Case study</h1>
                             <img className='ml-4' src="./chevron.png" alt="button" />
 
@@ -74,7 +74,7 @@ const Homepage = ({ handlePageChange }) => {
                             <p className='mt-2 text-[16px] text-[#4d4d4d] xl:text-[14px]'>Helping users shop for quality thrift wears from the comfort of their homes.</p>
                         </div>
                         <div className='px-8 py-12 text-left flex'>
-                            <h1 className='text-[16px] font-semibold xl:text-[14px]'>View Case Study</h1>
+                            <h1 className='text-[16px] font-semibold xl:text-[14px]'>Coming Soon</h1>
                             <img className='ml-4' src="./chevron.png" alt="button" />
 
                         </div>
